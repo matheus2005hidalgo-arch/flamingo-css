@@ -1,0 +1,38 @@
+*/page reset*/
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+h1{ 
+    width: 500px; /*largura*/
+    height: 500px;  /*altura*/
+    padding: 20px; 
+    border: black solid 10px;
+    font-size: 70px;
+    color: white; 
+    background-color: red;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: aqua;
+    color: rgb(4, 1, 22);
+    padding: 10px 30px;
+    margin: 10px;
+    border-radius: 100px;
+    text-transform: uppercase;
+    font-family: monospace;
+    transition: 1s;
+    border: solid 4px transparent;
+
+    
+}
+
+a:hover{ 
+    background: rgb(5, 252, 239);
+    border: solid black 4px ; 
+
+}

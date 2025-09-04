@@ -1,0 +1,26 @@
+*{
+    margin: 0; /* espaçamento externo*/
+
+}
+
+h1{
+    color: red;
+    background-color: antiquewhite;
+    font-size: 50px; /*tamanho da fonte*/
+    margin: 50px;
+    padding: 50px;
+    text-transform: uppercase; 
+    font-weight: bold; /* espessura*/
+    font-family: monospace; /* estilo da fonte*/
+    letter-spacing:5px; /* espaçamento entre as letras*/
+    text-align: center;
+
+    border-radius: 100px;
+    border: solid black 1px;
+    box-shadow: black 10px 10px 30px;
+}
+
+p{
+    text-align: justify;
+
+}
